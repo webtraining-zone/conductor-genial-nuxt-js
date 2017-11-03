@@ -10,13 +10,14 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Un lugar donde aprender a ser un buen conductor' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Asap+Condensed|Open+Sans:400,700' }
     ]
   },
   /*
   ** Customize SASS files
   */
-  css: [ 'bootswatch/cosmo/bootstrap.css', '@/assets/scss/main.scss' ],
+  css: [ 'bootswatch/cosmo/bootstrap.css', 'font-awesome/css/font-awesome.css', '@/assets/scss/main.scss' ],
   /*
   ** Customize the progress bar color
   */
