@@ -14,6 +14,10 @@ module.exports = {
     ]
   },
   /*
+  ** Customize SASS files
+  */
+  css: [ '@/assets/scss/main.scss' ],
+  /*
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
