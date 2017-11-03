@@ -1,13 +1,13 @@
 <template>
   <!-- START: Content -->
   <section class="b-main-content">
-    <div class="container">
-      <AppHeader/>
 
-      <nuxt/>
+    <AppHeader/>
 
-      <AppFooter/>
-    </div>
+    <nuxt/>
+
+    <AppFooter/>
+    
   </section>
 </template>
 <script>

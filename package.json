@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "bootswatch": "^3.3.7",
     "nuxt": "^1.0.0-rc11"
   },
   "devDependencies": {
