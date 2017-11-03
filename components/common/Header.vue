@@ -14,22 +14,22 @@
           <nav class="b-main-navigation">
             <ul id="js-main-navigation" class="b-main-navigation__items">
               <li class="b-main-navigation__item">
-                <a href="/" class="b-main-navigation__link">
+                <nuxt-link class="b-main-navigation__link" to="/">
                   <i class="fa fa-home b-main-navigation__icon" aria-hidden="true"></i>
                   <span class="b-main-navigation__text">Inicio</span>
-                </a>
+                </nuxt-link>
               </li>
               <li class="b-main-navigation__item">
-                <a href="/dist/pages/senales-transito.html" class="b-main-navigation__link">
+                <nuxt-link class="b-main-navigation__link" to="/senales">
                   <i class="fa fa-wheelchair-alt b-main-navigation__icon" aria-hidden="true"></i>
                   <span class="b-main-navigation__text">Señales</span>
-                </a>
+                </nuxt-link>
               </li>
               <li class="b-main-navigation__item">
-                <a href="/dist/pages/practica-examen-licencia-conducir.html" class="b-main-navigation__link">
+                <nuxt-link class="b-main-navigation__link" to="/examen-prueba">
                   <i class="fa fa-question-circle b-main-navigation__icon" aria-hidden="true"></i>
                   <span class="b-main-navigation__text">Examen</span>
-                </a>
+                </nuxt-link>
               </li>
             </ul>
           </nav>

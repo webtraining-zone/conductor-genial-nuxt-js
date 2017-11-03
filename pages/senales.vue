@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="b-senales">
     <h1>Señales</h1>
   </section>
 </template>
