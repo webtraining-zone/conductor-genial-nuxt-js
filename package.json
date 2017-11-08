@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "axios": "^0.17.0",
     "bootswatch": "^3.3.7",
     "font-awesome": "^4.7.0",
     "nuxt": "^1.0.0-rc11"
