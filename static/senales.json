@@ -1,0 +1,2200 @@
+{
+  "signals": [
+    {
+      "filename": "sr-9-90.png",
+      "name": "Velocidad Máxima - 90km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-80.png",
+      "name": "Velocidad Máxima - 80km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-70.png",
+      "name": "Velocidad Máxima - 70km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-60.png",
+      "name": "Velocidad Máxima - 60km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-50.png",
+      "name": "Velocidad Máxima - 50km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-40.png",
+      "name": "Velocidad Máxima - 40km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-30.png",
+      "name": "Velocidad Máxima - 30km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-110.png",
+      "name": "Velocidad Máxima - 110km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-9-100.png",
+      "name": "Velocidad Máxima - 100km/h",
+      "description": "Se utiliza para indicar el límite máximo de la velocidad permitida en el tramo de la carretera o vialidad urbana, pudiendo establecerse también por carril de circulación, misma que es expresada en múltiplos de 10 con la abreviatura km/h.\n\nLa velocidad máxima en cada tramo de carretera o vialidad urbana se establece en función de un estudio de ingeniería de tránsito o la que se determine por reglamentación, la cual puede establecerse para un determinado tipo de vehículos mediante un tablero adicional en el que así se indique.\n\nEn general, esta señal se coloca en los siguientes casos:\n\n1. Al inicio del tramo donde se establece la velocidad.\n\n2. En zonas de afluencia peatonal como son escuelas, iglesias y mercados, entre otros.\n\n3. Al principio de curvas o zonas de curvas, y en general en todos aquellos sitios en los cuales se requiere operen con velocidad distinta a la establecida en la carretera o vialidad urbana, como son angostamientos de la sección transversal, paso por vados, entradas y salidas, desviaciones plazas de cobro , etc.\n\nEn los enlaces de salida en los que se tiene que disminuir la velocidad, la señal debe llevar un tablero adicional con la leyenda SALIDA y se coloca en el inicio del enlace. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-8.png",
+      "name": "Inspección",
+      "description": "Se utiliza para indicar a determinados conductores que deberán detenerse en el lugar para revisión por parte de las autoridades correspondientes.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-7.png",
+      "name": "Ceda el paso",
+      "description": "Indica que el conductor tiene que detenerse o aminorar la velocidad de su vehículo, cuando sea necesario ceder el paso al tránsito al que se incorpora o cruza. El uso de esta señal se debe determinar siempre mediante un estudio de las condiciones locales de tránsito.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-6.png",
+      "description": "El uso de esta señal se determina a partir de las condiciones locales del tránsito. En general, esta señal se coloca en los siguientes casos:\n\n1. En los accesos de las intersecciones a nivel para restringir el paso a los vehículos.\n\n2. Antes del cruce de una carretera o vialidad urbana con una vía férrea, paso peatonal o ciclovía.\n\nEsta señal se coloca en las carreteras o vialidades urbanas de menor volumen de tránsito, en el lugar preciso en donde deben detenerse los vehículos.",
+      "name": "Alto",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-37.png",
+      "description": "Se utiliza para indicar el sentido de circulación permitido a los vehículos en la carretera o vialidad urbana.",
+      "name": "Sentido de circulación",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-36.png",
+      "name": "Prohibido el paso a vehículos sin permiso de internación",
+      "description": "Se usa para indicar la prohibición de circulación de vehículos matriculados en otro país que no cuenten con el permiso de internación al territorio nacional expedido por la autoridad correspondiente.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-35a.png",
+      "description": "Se coloca en vialidades de un solo sentido de circulación cuyos carriles se encuentren separados por un camellón u otro elemento divisorio, donde se prohíba cambiar del carril o carriles del cuerpo izquierdo al carril o carriles del cuerpo derecho. ",
+      "name": "Prohibido cambiar a los carriles de la derecha en el mismo sentido de circulación",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-35.png",
+      "description": "Se coloca en vialidades de un solo sentido de circulación cuyos carriles se encuentren separados por una faja separadora, carriles exclusivos para el transporte de pasajeros u otros elementos divisorios, donde se prohíba cambiar del carril o carriles por los que se circula al carril o carriles del lado izquierdo. ",
+      "name": "Prohibido cambiar a los carriles de la izquierda en el mismo sentido de circulación",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-34.png",
+      "name": "Uso obligatorio del cinturón de seguridad",
+      "description": "Se instala para indicar la obligación del uso del cinturón de seguridad, así como de los asientos para niños, de todos los ocupantes de los vehículos en tránsito.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-33.png",
+      "name": "Prohibido el uso de señales acústicas",
+      "description": "Se utiliza para indicar a los conductores la prohibición de emplear el sonido de la bocina o claxon excepto para prevenir un accidente.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-32.png",
+      "name": "Prohibida la circulación de vehículos de carga",
+      "description": "Se emplea para indicar que en determinados tramos de carretera o vialidad urbana, está prohibido el tránsito de vehículos de carga. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-31.png",
+      "name": "Prohibida la circulación de peatones",
+      "description": "Se usa en aquellos sitios de la carretera o vialidad urbana en los que se prohíbe la circulación o cruce de peatones.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-30.png",
+      "name": "Prohibida la circulación de bicicletas",
+      "description": "Se usa en aquellas carreteras o vialidades urbanas donde se prohíbe la circulación de bicicletas.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-29.png",
+      "name": "Prohibida la circulación de vehículos agrícolas",
+      "description": "Se emplea para indicar que está prohibida la circulación de vehículos agrícolas sobre la carretera o vialidad urbana.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-28.png",
+      "description": "Se usa para indicar que se prohíbe la circulación de vehículos de tracción animal sobre la carretera o vialidad urbana.",
+      "name": "Prohibida la circulación de vehículos de tracción animal",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-27.png",
+      "name": "Prohibida la circulación de bicicletas, vehículos de carga y motocicletas",
+      "description": "Se usa para indicar que está prohibido el tránsito de bicicletas, vehículos de carga y motocicletas en determinado tramo de la carretera o vialidad urbana. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-26.png",
+      "name": "Prohibido circuclar de frente",
+      "description": "Se emplea en aquellos sitios donde se prohíba la circulación de frente, al inicio de una carretera o vialidad urbana, principalmente por el cambio en el sentido de circulación.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-25c.png",
+      "name": "Retorno: Salida a desnivel (PSV)",
+      "description": "Se emplea para indicar la vuelta de retorno a desnivel, mediante un paso superior vehicular (PSV).",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-25b.png",
+      "name": "Retorno: Salida a desnivel (PIV)",
+      "description": "Se emplea para indicar la vuelta de retorno a desnivel, mediante un paso inferior vehicular (PIV).",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-25a.png",
+      "name": "Retorno permitido",
+      "description": "Se utiliza en los sitios donde por sus condiciones geométricas y del tránsito se permite la vuelta de retorno a nivel.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-25.png",
+      "name": "Prohibido el retorno",
+      "description": "Se aplica en los sitios donde se prohíba la vuelta de retorno por no disponer de las condiciones de seguridad o causar inconvenientes al tránsito de vehículos.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-24.png",
+      "description": "Se emplea en aquellos sitios donde se prohíba la vuelta a la izquierda por tratarse de una circulación de sentido contrario o, en casos específicos, para no interferir con otros movimientos importantes, inclusive el de peatones.",
+      "name": "Prohibida la vuelta a la izquierda",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-23.png",
+      "name": "Prohibida la vuelta a la derecha",
+      "description": "Se utiliza en aquellos sitios donde se prohíba la vuelta a la derecha, por tratarse de una circulación de sentido contrario o, en casos específicos, para no interferir con otros movimientos importantes, inclusive el de peatones.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-22.png",
+      "name": "Prohibido estacionarse",
+      "description": "Se utiliza en aquellos lugares donde no se permita el estacionamiento y aplica para el tramo carretero o de vialidad urbana donde se ubica la señal. En áreas urbanas aplicará únicamente para el tramo comprendido entre dos esquinas.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-21.png",
+      "name": "Estacionamiento permitido",
+      "description": "Se emplea en aquellos sitios donde sea necesario obtener una mayor utilización del espacio para estacionamiento disponible.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-20.png",
+      "name": "No parar",
+      "description": "Se coloca en aquellos lugares donde no se permita el estacionamiento ni la detención momentánea de vehículos sobre la superficie de rodadura. Se usa en las vías rápidas con altos volúmenes de tránsito o en túneles y puentes cuando la detención de un vehículo pueda ocasionar accidentes o provocar congestionamientos, así como en entradas y salidas de emergencia donde no puede existir en ningún momento algún vehículo que obstruya su funcionamiento.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-19.png",
+      "name": "Parada prohibida",
+      "description": "Se utiliza en aquellos lugares donde esté restringido el ascenso y descenso de pasajeros para no interferir con otro tipo de circulación ya sea vehicular o peatonal.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-18.png",
+      "name": "Prohibido rebasar",
+      "description": "Se emplea para indicar los tramos en los que no se permite realizar maniobras de rebase. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-17.png",
+      "name": "Peso restringido",
+      "description": "Se utiliza en puentes u otros sitios de la carretera o vialidad urbana donde se restrinja la circulación de vehículos que excedan el peso indicado, ya sea por la capacidad del puente o del pavimento. El peso máximo del vehículo o por eje que se permita se indica en toneladas con aproximación a media tonelada.",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-16.png",
+      "name": "Anchura libre restringida",
+      "description": "Se utiliza para indicar que las dimensiones de alguna estructura en la vialidad no permitirán el paso simultáneo de dos vehículos. La anchura se indica en metros con aproximación al decímetro inferior. Se usará cuando el ancho de la estructura sea igual o menor que 5.50 m. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-15.png",
+      "description": "Se emplea para indicar que la altura libre de un paso inferior u otra estructura es menor de 5.00 m y se coloca en dicha estructura. La dimensión se indica en metros con aproximación al decímetro inferior. ",
+      "name": "Altura libre restringida",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-14.png",
+      "name": "Doble circulación",
+      "description": "Se coloca en aquellas vías de un solo sentido, cuando cambien a un tramo de dos carriles en el que se permita la doble circulación. Se ubica al inicio del tramo aludido. ",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-13.png",
+      "description": "Se emplea para indicar a los conductores de camiones que tienen que transitar por el carril de su derecha, con el objeto de dejar libre el carril o carriles de la izquierda para el tránsito de vehículos ligeros.",
+      "name": "Conserve su derecha",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-12.png",
+      "description": "Se usa en intersecciones para indicar que uno o más carriles se utilizan exclusivamente para vuelta izquierda y no deben ser ocupados por vehículos que sigan de frente. Esta señal se complementa con marcas en el pavimento, como flechas y letras. ",
+      "name": "Solo vuelta a la izquierda",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-11i.png",
+      "description": "Se usa en aquellas intersecciones donde se indique la obligación de circular en el sentido mostrado, con el fin de evitar la invasión de un carril con circulación contraria. La flecha se coloca horizontal o inclinada indicando el sentido del tránsito.",
+      "name": "Circulación en intersecciones - Izquierda",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-11a.png",
+      "description": "Se coloca al inicio de una faja separadora central de una vialidad dividida, para indicar la obligación de circular en el sentido mostrado.",
+      "name": "Circulación en vialidad dividida",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-11.png",
+      "description": "Se usa en aquellas intersecciones donde se indique la obligación de circular en el sentido mostrado, con el fin de evitar la invasión de un carril con circulación contraria. La flecha se coloca horizontal o inclinada indicando el sentido del tránsito.",
+      "name": "Circulación en intersecciones - Derecha",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "sr-10.png",
+      "description": "Se emplea en las intersecciones controladas por semáforos en las cuales está permitida la vuelta derecha en forma continua aunque para el tránsito que siga de frente se indique ALTO.",
+      "name": "Vuelta continua a la derecha",
+      "tipo": {
+        "id": "sr",
+        "name": "Señal Restrictiva"
+      }
+    },
+    {
+      "filename": "spp-2.png",
+      "name": "Material acamellonado",
+      "description": "Se utiliza para advertir a los conductores sobre la proximidad de una reducción en el ancho de la carpeta por la ocupación temporal de material para construcción, conservación o reparación. \n\nEl pictograma indicará si el material está del lado derecho o del lado izquierdo.",
+      "tipo": {
+        "id": "spp",
+        "name": "Señal de Zona de Obras"
+      }
+    },
+    {
+      "filename": "spp-1.png",
+      "name": "Obras en la vialidad",
+      "description": "Se utiliza para inficar la proximidad de un tramo en el que se estén realizando obras de construcción, conservación o reparación.",
+      "tipo": {
+        "id": "spp",
+        "name": "Señal de Zona de Obras"
+      }
+    },
+    {
+      "filename": "sp-9i.png",
+      "name": "Curva inversa cerrada - Izquierda-Derecha",
+      "description": "Se utiliza para indicar la presencia de dos curvas cerradas consecutivas de dirección contraria.\n\nEl pictograma debe indicar si la curva inversa es derecha-izquierda o izquierda-derecha.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-9.png",
+      "description": "Se utiliza para indicar la presencia de dos curvas cerradas consecutivas de dirección contraria.\n\nEl pictograma debe indicar si la curva inversa es derecha-izquierda o izquierda-derecha.",
+      "name": "Curva inversa cerrada - Derecha-Izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-8i.png",
+      "description": "Se utiliza para indicar la presencia de dos curvas consecutivas de dirección contraria.\n\nEl pictograma debe indicar si la curva inversa es derecha-izquierda o izquierda-derecha.",
+      "name": "Curva inversa - Izquierda-Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-8.png",
+      "description": "Se utiliza para indicar la presencia de dos curvas consecutivas de dirección contraria.\n\nEl pictograma debe indicar si la curva inversa es derecha-izquierda o izquierda-derecha.",
+      "name": "Curva inversa - Derecha-Izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-7i.png",
+      "description": "Se emplea para indicar curvas cerradas a la derecha o a la izquierda.\n\nEl pictograma debe mostrar si la curva es a la derecha o a la izquierda.",
+      "name": "Curva cerrada - Izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-7.png",
+      "description": "Se emplea para indicar curvas cerradas a la derecha o a la izquierda.\n\nEl pictograma debe mostrar si la curva es a la derecha o a la izquierda.",
+      "name": "Curva cerrada - Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-6i.png",
+      "description": "Se emplea para indicar curvas a la derecha o a la izquierda.\n\nEl pictograma debe mostrar si la curva es a la derecha o a la izquierda.",
+      "name": "Curva - Izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-6.png",
+      "description": "Se emplea para indicar curvas a la derecha o a la izquierda.\n\nEl pictograma debe mostrar si la curva es a la derecha o a la izquierda.",
+      "name": "Curva - Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-49.png",
+      "description": "Se emplea cuando el carril de la izquierda es utilizado en una intersección controlada con semáforos para que por éste se efectúe el movimiento de vuelta izquierda.",
+      "name": "Vuelta izquierda con semáforo",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-48.png",
+      "description": "Se utiliza para indicar los sitios o zonas donde existe la posibilidad de presencia de fauna silvestre sobre la vialidad.",
+      "name": "Fauna silvestre",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-47c.png",
+      "description": "Se coloca para indicar la existencia de dos o más intersecciones en T consecutivas.\n\nEl pictograma debe mostrar si la disposición de las intersecciones es de forma alternada o las dos a la derecha o a la izquierda.",
+      "name": "Intersecciones en T sucesivas - Izquierda-Izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-47b.png",
+      "description": "Se coloca para indicar la existencia de dos o más intersecciones en T consecutivas.\n\nEl pictograma debe mostrar si la disposición de las intersecciones es de forma alternada o las dos a la derecha o a la izquierda.",
+      "name": "Intersecciones en T sucesivas - Derecha-Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-47a.png",
+      "name": "Intersecciones en T sucesivas - Izquierda-Derecha",
+      "description": "Se coloca para indicar la existencia de dos o más intersecciones en T consecutivas.\n\nEl pictograma debe mostrar si la disposición de las intersecciones es de forma alternada o las dos a la derecha o a la izquierda.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-47.png",
+      "description": "Se coloca para indicar la existencia de dos o más intersecciones en T consecutivas.\n\nEl pictograma debe mostrar si la disposición de las intersecciones es de forma alternada o las dos a la derecha o a la izquierda.",
+      "name": "Intersecciones en T sucesivas - Derecha-Izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-46i.png",
+      "name": "Calle cerrada - Izquierda",
+      "description": "Se utiliza para indicar que la vialidad a la que pretende acceder no tiene continuidad y en caso de ingresar a ella, para salir debe retornar.\n\nEl pictograma debe indicar si la vialidad cerrada se encuentra a la derecha o a la izquierda.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-46.png",
+      "description": "Se utiliza para indicar que la vialidad a la que pretende acceder no tiene continuidad y en caso de ingresar a ella, para salir debe retornar.\n\nEl pictograma debe indicar si la vialidad cerrada se encuentra a la derecha o a la izquierda.",
+      "name": "Calle cerrada - Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-45.png",
+      "description": "Se usa para indicar la presencia de zonas con neblina que disminuyen la visibilidad del usuario.",
+      "name": "Niebla",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-44.png",
+      "name": "Tolvanera",
+      "description": "Se usa para indicar la presencia de zonas de tolvaneras que disminuyen la visibilidad del usuario.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-43.png",
+      "description": "Se utiliza para indicar una zona con viento en dirección transversal a la vialidad que pueda desestabilizar al vehículo.",
+      "name": "Viento",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-42.png",
+      "description": "Se emplea para advertir la proximidad de un túnel.",
+      "name": "Túnel",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-41.png",
+      "description": "Se usa para indicar la proximidad de un reductor de velocidad, que es un dispositivo instalado sobre la superficie de rodadura para controlar la velocidad de los vehículos.",
+      "name": "Reductor de velocidad",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-40.png",
+      "description": "Se emplea para indicar la proximidad de un tramo de vialidad en el que existe grava suelta sobre la superficie de rodadura.",
+      "name": "Grava suelta",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-39.png",
+      "description": "Se utiliza para indicar los sitios o zonas de la vialidad por donde cruzan o transitan bicicletas.",
+      "name": "Circulación de bicicletas",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-38a.png",
+      "name": "Vialidad dividida de un solo sentido",
+      "description": "Se coloca para indicar el principio o el final de una vialidad en un solo sentido de circulación, dividida por una faja separadora central.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-38.png",
+      "name": "Vialidad dividida",
+      "description": "Se coloca para indicar el principio o el final de una vialidad dividida por una faja separadora central.\n\nSegún la posición del pictograma, se indica el inicio o la terminación del tramo dividido.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-37.png",
+      "description": "Se usa antes de las intersecciones aisladas que estén controladas por semáforos, o cuando se entra a una zona donde no se espera encontrarlos.",
+      "name": "Semáforo",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-36.png",
+      "description": "Se utiliza para indicar los sitios o zonas de la vialidad por donde cruzan o transitan vehículos agrícolas.",
+      "name": "Vehículos agrícolas",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-35c.png",
+      "description": "Se emplea para indicar la existencia de un cruce a nivel de vía férrea a los usuarios que se aproximan desde cualquier rama de una intersección en T, cuando la distancia entre éstas sea igual o menor a 46 m, medidos desde la raya de alto del cruce de ferrocarril a la esquina más próxima de la intersección vial.",
+      "name": "Intersección vial en T secundaria próxima a cruce con vía férrea",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-35b.png",
+      "description": "Se emplea para indicar la existencia de un cruce a nivel de vía férrea a los usuarios que se aproximan desde cualquier rama de una intersección en T, cuando la distancia entre éstas sea igual o menor a 46 m, medidos desde la raya de alto del cruce de ferrocarril a la esquina más próxima de la intersección vial.",
+      "name": "Intersección vial en T próxima a cruce con vía férrea",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-35a.png",
+      "description": "Se emplea para indicar la existencia de un cruce a nivel de vía férrea a los usuarios que se aproximan desde cualquier rama de una intersección, cuando la distanciaentre éstas sea igual o menor a 46 m, medidos desde la raya de alto del cruce de ferrocarril a la esquinamás próxima de la intersección vial.",
+      "name": "Intersección vial próxima a cruce con via férrea",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-35.png",
+      "description": "Se utiliza para advertir la proximidad de un cruce a nivel con vía férrea.",
+      "name": "Cruce con vía ferrea",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-34.png",
+      "description": "Se utiliza para indicar los sitios o zonas de la vialidad por donde cruza o transita ganado.",
+      "name": "Ganado",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-33.png",
+      "description": "Se utiliza para indicar los sitios o zonas de la vialidad por donde cruzan o transitan escolares.",
+      "name": "Escolares",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-32.png",
+      "description": "Se utiliza para indicar los sitios o zonas de la vialidad por donde cruzan o transitan peatones.",
+      "name": "Peatones",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-31.png",
+      "name": "Alto próximo",
+      "description": "Se emplea para indicar la proximidad de una señal de ALTO, cuando ésta no sea visible a una distanciasuficiente para que el conductor pueda parar en el lugar mismo de la restricción.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-30.png",
+      "description": "Se utiliza para indicar la presencia de un tramo de vialidad en la que pueden ocurrir derrumbes.",
+      "name": "Zona de derrumbes",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-29.png",
+      "description": "Se usa para indicar la presencia de un tramo de la vialidad con una pendiente descendente continua en un tramo considerable, en la cual se recomienda reducir la velocidad, de preferencia con motor.",
+      "name": "Pendiente descendente",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-28.png",
+      "description": "Se coloca para indicar que existen tramos con superficie resbalosa y no por condiciones ambientales.",
+      "name": "Superficie derrapante",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-27.png",
+      "description": "Se emplea para indicar que termina la superficie pavimentada de la vialidad.",
+      "name": "Termina pavimento",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-26.png",
+      "description": "Se usa para indicar la presencia de un vado en la vialidad; esta señal debe complementarse con reglas y tubos guía para vados.",
+      "name": "Vado",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-25.png",
+      "description": "Se utiliza para indicar la existencia de cualquier estructura o elemento que limite el espacio libre vertical a menos de 5.0 m.",
+      "name": "Altura libre",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-24.png",
+      "description": "Se coloca para advertir la presencia de pasos estrechos o estructuras angostas que no permitan la circulación simultánea de dos vehículos.",
+      "name": "Anchura libre",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-23.png",
+      "description": "Se utiliza para indicar la existencia de un puente cuya anchura entre guarniciones sea menor a la de la corona o arroyo vial.",
+      "name": "Puente angosto",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-22.png",
+      "description": "Se utiliza para indicar la existencia de un puente cuyo sistema de piso es móvil y puede estar momentáneamente desplazado, horizontal o verticalmente, para permitir el paso de embarcaciones.",
+      "name": "Puente móvil",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-21a.png",
+      "description": "Se aplica para indicar una reducción asimétrica de la anchura de la vialidad, ya sea disminuyendo el número de carriles o las dimensiones de la sección transversal.",
+      "name": "Estrechamiento asimétrico - Por la izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-21.png",
+      "description": "Se aplica para indicar una reducción asimétrica de la anchura de la vialidad, ya sea disminuyendo el número de carriles o las dimensiones de la sección transversal.",
+      "name": "Estrechamiento asimétrico - Por la derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-20.png",
+      "description": "Se usa para indicar una reducción simétrica en la anchura de la vialidad, ya sea disminuyendo el número de carriles o las dimensiones de la sección transversal.",
+      "name": "Estrechamiento simétrico",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-19i.png",
+      "name": "Salida - Izquierda",
+      "description": "Se utiliza para indicar la proximidad de una salida en las vialidades de accesos controlados.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-19.png",
+      "description": "Se utiliza para indicar la proximidad de una salida en las vialidades de accesos controlados.",
+      "name": "Salida - Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-18.png",
+      "description": "Se utiliza para indicar el cambio de un tramo con circulación en un sólo sentido a otro tramo con circulación en ambos sentidos.",
+      "name": "Doble circulación",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-17i.png",
+      "name": "Incorporación del tránsito - Por izquierda",
+      "description": "Indica la existencia de una confluencia, derecha o izquierda, por donde se incorpora tránsito vehicular en el mismo sentido.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-17.png",
+      "description": "Indica la existencia de una confluencia, derecha o izquierda, por donde se incorpora tránsito vehicular en el mismo sentido.",
+      "name": "Incorporación del tránsito - Por derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-16.png",
+      "description": "Se emplea para indicar una intersección a nivel de dos o más vialidades, la cual tiene una isleta central de forma redondeada para circulación continua.",
+      "name": "Glorieta",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-15b.png",
+      "name": "Intersección en Y - Iguales",
+      "description": "Se coloca para indicar una intersección a nivel tipo Y de dos vialidades.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la que entronca es por la derecha, por la izquierda o de frente, así como la forma en que entroncan.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-15a.png",
+      "name": "Intersección en Y - Principal derecha",
+      "description": "Se coloca para indicar una intersección a nivel tipo Y de dos vialidades.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la que entronca es por la derecha, por la izquierda o de frente, así como la forma en que entroncan.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-15.png",
+      "description": "Se coloca para indicar una intersección a nivel tipo Y de dos vialidades.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la que entronca es por la derecha, por la izquierda o de frente, así como la forma en que entroncan.",
+      "name": "Intersección en Y - Principal izquierda",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-14i.png",
+      "name": "Intersección lateral oblicua - Izquierda",
+      "description": "Se utiliza para indicar una intersección a nivel en la que una vialidad entronca con otra en ángulo oblicuosuperior a 30°, medido a partir de la perpendicular de la principal a la secundaria.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la que entronca es por la derecha, por la izquierda o de frente, así como la forma en que entroncan.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-14.png",
+      "description": "Se utiliza para indicar una intersección a nivel en la que una vialidad entronca con otra en ángulo oblicuosuperior a 30°, medido a partir de la perpendicular de la principal a la secundaria.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la que entronca es por la derecha, por la izquierda o de frente, así como la forma en que entroncan.",
+      "name": "Intersección lateral oblicua - Derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-13i.png",
+      "name": "Intersección en Delta - Izquierda",
+      "description": "Se utiliza para indicar una intersección a nivel de tres ramas, con isleta triangular central.\n\nEn el pictograma la vialidad principal se indica con línea ancha y las ramas secundarias con una línea 50 % más angosta; las líneas deben ser del mismo anchocuando ambas vialidades sean de la misma importancia,además debe indicarse si las ramas entroncan por la derecha, por la izquierda o de frente.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-13.png",
+      "name": "Intersección en Delta - Derecha",
+      "description": "Se utiliza para indicar una intersección a nivel de tres ramas, con isleta triangular central.\n\nEn el pictograma la vialidad principal se indica con línea ancha y las ramas secundarias con una línea 50 % más angosta; las líneas deben ser del mismo anchocuando ambas vialidades sean de la misma importancia,además debe indicarse si las ramas entroncan por la derecha, por la izquierda o de frente.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-12b.png",
+      "name": "Intersección en T - Rama",
+      "description": "Se utiliza para indicar una intersección a nivel en T de dos vialidades, cuando la vialidad que entronca sea normal o tenga un ángulo de esviaje de hasta 30° medido a partir de la perpendicular de la principal a la secundaria.\n\nEn el pictograma, la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la rama entronca por la derecha, por la izquierda o de frente.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-12a.png",
+      "name": "Intersección en T - Princial por la izquierda",
+      "description": "Se utiliza para indicar una intersección a nivel en T de dos vialidades, cuando la vialidad que entronca sea normal o tenga un ángulo de esviaje de hasta 30° medido a partir de la perpendicular de la principal a la secundaria.\n\nEn el pictograma, la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la rama entronca por la derecha, por la izquierda o de frente.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-12.png",
+      "description": "Se utiliza para indicar una intersección a nivel en T de dos vialidades, cuando la vialidad que entronca sea normal o tenga un ángulo de esviaje de hasta 30° medido a partir de la perpendicular de la principal a la secundaria.\n\nEn el pictograma, la vialidad principal se indica con línea ancha y la secundaria con una línea 50 % más angosta;las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia, además debe indicarse si la rama entronca por la derecha, por la izquierda o de frente.",
+      "name": "Intersección en T - Principal por la derecha",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-11b.png",
+      "name": "Intersección a nivel - Secundaria",
+      "description": "Se utiliza para indicar la intersección a nivel de dos vialidades.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50% más angosta; las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-11a.png",
+      "name": "Intersección a nivel - Iguales",
+      "description": "Se utiliza para indicar la intersección a nivel de dos vialidades.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50% más angosta; las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-11.png",
+      "description": "Se utiliza para indicar la intersección a nivel de dos vialidades.\n\nEn el pictograma la vialidad principal se indica con línea ancha y la secundaria con una línea 50% más angosta; las líneas deben ser del mismo ancho cuando ambas vialidades sean de la misma importancia.",
+      "name": "Intersección a nivel - Principal",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-10i.png",
+      "name": "Zona de curvas - Izquierda",
+      "description": "Se emplea para indicar tres o más curvas inversas consecutivas. \n\nLa orientación del pictograma depende de la dirección de la primera curva del tramo de la carretera.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sp-10.png",
+      "name": "Zona de curvas - Derecha",
+      "description": "Se emplea para indicar tres o más curvas inversas consecutivas. \n\nLa orientación del pictograma depende de la dirección de la primera curva del tramo de la carretera.",
+      "tipo": {
+        "id": "sp",
+        "name": "Señal Preventiva"
+      }
+    },
+    {
+      "filename": "sit-9.png",
+      "name": "Playa",
+      "description": "Se usa para informar la presencia de playas.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-8.png",
+      "name": "Parque nacional",
+      "description": "Se usa para informar la presencia de un parque nacional.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-7.png",
+      "name": "Monumento colonial",
+      "description": "Se usa para informar la presencia de monumentos coloniales.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-6.png",
+      "name": "Lago/Laguna",
+      "description": "Se usa para informar la presencia de un lago o laguna.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-57.png",
+      "name": "Cenote",
+      "description": "Se usa para informar la presencia de un cenote.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-56.png",
+      "name": "Zoológico",
+      "description": "Se usa para informar la presencia de un zoológico.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-55.png",
+      "name": "Voleibol",
+      "description": "Se usa para informar la ubicación de un sitio para practicar voleibol.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-54.png",
+      "name": "Vela",
+      "description": "Se usa para informar la presencia de un sitio en el que se puede abordar un velero para realizar recorridos náuticos.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-53.png",
+      "name": "Toros",
+      "description": "Se usa para informar la presencia de una plaza de toros.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-52.png",
+      "name": "Tiro",
+      "description": "Se usa para informar la presencia de un sitio o campo en el que se realizan prácticas de tiro.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-51.png",
+      "name": "Tenis de mesa",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el tenis de mesa.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-50.png",
+      "name": "Tenis",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el tenis.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-5.png",
+      "name": "Grutas",
+      "description": "Se usa para informar la presencia de una gruta.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-49.png",
+      "name": "Squash",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el squash.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-48.png",
+      "name": "Ski acuático",
+      "description": "Se usa para informar la presencia de un sitio en el que se realiza la práctica de ski acuático.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-47.png",
+      "name": "Salvavidas",
+      "description": "Se usa para informar la ubicación de un salvavidas.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-46.png",
+      "name": "Remo",
+      "description": "Se usa para informar la presencia de un sitio en el que se realizan prácticas de remo.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-45.png",
+      "name": "Regatas",
+      "description": "Se usa para informar la presencia de un sitio en el que se realizan competencias deportivas de embarcaciones de la misma clase, a vela, motor o remo.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-44.png",
+      "name": "Planeadores",
+      "description": "Se usa para informar la presencia de un sitio en el que se realizan actividades deportivas relacionadas con el uso de planeadores.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-43.png",
+      "name": "Pesca",
+      "description": "Se usa para informar la presencia de un sitio acondicionado para la pesca deportiva.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-42.png",
+      "name": "Palenque",
+      "description": "Se usa para informar la presencia de un sitio en el que se realizan peleas de gallos.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-41.png",
+      "name": "Museo",
+      "description": "Se usa para informar la presencia de un museo.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-40.png",
+      "name": "Montañismo",
+      "description": "Se usa para informar la presencia de un sitio en el que se realizan prácticas de montañismo.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-4.png",
+      "name": "Cascada",
+      "description": "Se usa para informar la presencia de una cascada.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-39.png",
+      "name": "Mirador",
+      "description": "Se usa para informar la presencia de un lugar acondicionado para contemplar un paisaje.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-38.png",
+      "name": "Lienzo charro",
+      "description": "Se usa para informar la presencia de un sitio en el que se realizan prácticas o eventos de charrería.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-37.png",
+      "name": "Juegos infantiles",
+      "description": "Se usa para informar la ubicación de un sitio para juegos infantiles.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-36.png",
+      "name": "Juegos de salón",
+      "description": "Se usa para informar la ubicación de un sitio de juegos de salón.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-35.png",
+      "name": "Jai alai",
+      "description": "Se usa para informar la presencia de un frontón en el que se practica jai alai.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-34.png",
+      "name": "Hipódromo",
+      "description": "Se usa para informar la presencia de pistas para carreras de caballos.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-33.png",
+      "name": "Guía de turistas",
+      "description": "Se usa para informar la ubicación de un guía de turistas.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-32.png",
+      "name": "Golf",
+      "description": "Se usa para informar la presencia de un campo de golf.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-31.png",
+      "name": "Go kart",
+      "description": "Se usa para informar la ubicación de pistas para vehículos tipo kart.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-30.png",
+      "name": "Galgódromo",
+      "description": "Se usa para informar la presencia de pistas para carreras de galgos.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-3.png",
+      "name": "Balneario",
+      "description": "Se usa para informar la existencia de sitios propicios para la natación.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-29.png",
+      "name": "Galería",
+      "description": "Se usa para informar la presencia de una galería de arte.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-28.png",
+      "name": "Futbol",
+      "description": "Se usa para informar la presencia de un estadio o lugar con instalaciones para juegos o prácticas de futbol.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-27.png",
+      "name": "Festival artístico",
+      "description": "Se usa para informar la ubicación de un sitio donde se lleva a cabo un festival artístico.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-26.png",
+      "name": "Ciclismo",
+      "description": "Se usa para informar la presencia de pistas para practicar el ciclismo.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-25.png",
+      "name": "Caza",
+      "description": "Se usa para informar la presencia de un sitio en el que se permite la caza deportiva.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-24.png",
+      "name": "Cambio de moneda",
+      "description": "Se usa para informar la ubicación de un sitio que ofrece el servicio de cambio de moneda.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-23.png",
+      "name": "Buceo",
+      "description": "Se usa para informar la presencia de un sitio para practicar el buceo.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-22.png",
+      "name": "Boliche",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el juego de bolos.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-21.png",
+      "name": "Beisból",
+      "description": "Se usa para informar la presencia de un estadio o lugar con instalaciones para juegos o prácticas de beisból.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-20.png",
+      "name": "Bar",
+      "description": "Se usa para informar la ubicación de un bar.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-2.png",
+      "name": "Artesanías",
+      "description": "Se usa pra informar la exhibición y venta de artesanías.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-19.png",
+      "name": "Baloncesto",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el baloncesto.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-18.png",
+      "name": "Badminton",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el badminton.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-17.png",
+      "name": "Autódromo",
+      "description": "Se usa para informar la presencia de pistas para realizar carreras automovilísticas.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-16.png",
+      "name": "Asadores",
+      "description": "Se usa para informar la presencia de asadores para cocinar al aire libre.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-15.png",
+      "name": "Arco y flecha",
+      "description": "Se usa para informar la ubicación de un sitio para practicar el tiro con arco con flecha.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-14.png",
+      "name": "Aguas termales",
+      "description": "Se usa para informar la presencia de una zona con aguas termales.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-13.png",
+      "name": "Agencia de viajes",
+      "description": "Se usa para informar la ubicación de una agencia de viajes.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-12.png",
+      "name": "Aduana",
+      "description": "Se usa para informar la ubicación de una aduana.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-11.png",
+      "name": "Acuario",
+      "description": "Se usa para informar la presencia de un acuario.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-10.png",
+      "name": "Zona arqueológica",
+      "description": "Se usa para informar la presencia de una zona arqueológica.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sit-1.png",
+      "name": "Acueducto",
+      "description": "Se usa para informar la presencia de un acueducto.",
+      "tipo": {
+        "id": "sit",
+        "name": "Señal Informativa Turística"
+      }
+    },
+    {
+      "filename": "sis-9.png",
+      "name": "Estacionamiento para casas rodantes",
+      "description": "Se usa para indicar las áreas para el estacionamiento de casas rodantes.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-8.png",
+      "description": "Se usa para indicar las áreas para el estacionamiento fuera de las vialidades.",
+      "name": "Estacionamiento",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-70.png",
+      "name": "Pago de cuota con telepeaje",
+      "description": "Se usa para indicar el pago de cuota con telepeaje.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-7.png",
+      "name": "Depósito de basura",
+      "description": "Se usa para indicar la presencia de un depósito de basura.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-69.png",
+      "name": "Pago de cuota con tarjeta",
+      "description": "Se usa para indicar el pago de cuota con tarjeta de crédito o débito.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-68.png",
+      "name": "Pago de cuota en efectivo",
+      "description": "Se usa para indicar el pago de cuota en efectivo.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-67.png",
+      "name": "Tienda de conveniencia",
+      "description": "Se usa para informar la presencia de un tienda de conveniencia.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-66.png",
+      "name": "Depósito de agua",
+      "description": "Se usa para indicar la presencia de un depósito de agua.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-65.png",
+      "name": "Asistencia telefónica en vialidades",
+      "description": "Se usa para informar el servicio de asistencia telefónica en vialidades marcando el número que se indique en el tablero.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-64.png",
+      "name": "Zona peatonal",
+      "description": "Se usa para indicar un cruce o zona peatonal.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-63.png",
+      "name": "Venta de boletos",
+      "description": "Se usa para informar el servicio de venta de boletos.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-62.png",
+      "name": "Tianguis",
+      "description": "Se usa para informar la ubicación de un sitio para la compra de diversos productos.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-61.png",
+      "name": "Terminal de autobuses",
+      "description": "Se usa para informar la presencia de una terminal de autobuses.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-60.png",
+      "name": "Télex",
+      "description": "Se usa para indicar el sitio donde se proporciona el servicio de un dispositivo telegráfico de transmisión de datos.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-6.png",
+      "name": "Chalana",
+      "description": "Se usa para indicar la presencia de un muelle para abordar una embarcación.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-59.png",
+      "name": "Telégrafo",
+      "description": "Se usa para indicar el sitio donde se proporciona el servicio telegráfico.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-58.png",
+      "name": "Teatro",
+      "description": "Se usa para informar la presencia de un teatro o centro cultural.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-57.png",
+      "name": "Sanitario de mujeres",
+      "description": "Se usa para indicar el sitio donde se presta el servicio de sanitario de mujeres.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-56.png",
+      "name": "Sanitario de hombres",
+      "description": "Se usa para indicar el sitio donde se presta el servicio de sanitario de hombres.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-55.png",
+      "name": "Sala de espera",
+      "description": "Se usa para indicar el sitio donde se presta el servicio de sala de espera.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-54.png",
+      "name": "Taller de reparación de llantas",
+      "description": "Se usa para indicar el sitio donde se presta el servicio de reparación de llantas.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-53.png",
+      "name": "Renta de automóviles",
+      "description": "Se usa para informar la ubicación de un servicio de renta de automóviles.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-52.png",
+      "name": "Policía",
+      "description": "Se usa para informar la presencia de una estación de policía.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-51.png",
+      "name": "Zona o instalaciones para discapacitados",
+      "description": "Se usa para indicar zonas o instalaciones exclusivas para discapacitados.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-50.png",
+      "name": "Paquetería",
+      "description": "Se usa para informar la ubicación de una zona de servicio de paquetería.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-5.png",
+      "name": "Campamento",
+      "description": "Se usa para indicar la presencia de un sitio recreativo para acampar.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-49.png",
+      "name": "Oficina",
+      "description": "Se usa para informar la ubicación de una oficina.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-48.png",
+      "name": "Migración",
+      "description": "Se usa para informar la ubicación de un sitio de migración.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-47.png",
+      "name": "Maletero",
+      "description": "Se usa para informar el servicio de maletero.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-46.png",
+      "name": "Guardaequipaje",
+      "description": "Se usa para informar la ubicación de un sitio para guardar el equipaje",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-45.png",
+      "name": "Guardabosques",
+      "description": "Se usa para informar la ubicación de una caseta de guardabosques.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-44.png",
+      "name": "Extinguidor",
+      "description": "Se usa para informar la ubicación de un extinguidor.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-43.png",
+      "name": "Escaleras",
+      "description": "Se usa para informar la ubicación de una zona de escaleras.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-42.png",
+      "name": "Equipaje",
+      "description": "Se usa para informar la ubicación de un sitio para recoger el equipaje.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-41.png",
+      "name": "Elevador",
+      "description": "Se usa para indicar el sitio donde se proporciona el servicio de elevador.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-40.png",
+      "name": "Correo",
+      "description": "Se usa para indicar el sitio donde se proporciona el servicio de correo.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-4.png",
+      "name": "Auxilio turístico",
+      "description": "Se usa para indicar la presencia de un sitio en el que se proporciona asistencia médica, mecánica e información turística.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-39.png",
+      "name": "Cine",
+      "description": "Se usa para indicar la ubicación de una sala de cine.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-38.png",
+      "name": "Cafetería",
+      "description": "Se usa para indicar el sitio donde se proporciona el servicio de cafetería.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-37.png",
+      "name": "Bomberos",
+      "description": "Se usa para indicar la presencia de una estación de bomberos.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-36.png",
+      "description": "Se usa para indicar la ubicación de una biblioteca.",
+      "name": "Biblioteca",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-35.png",
+      "name": "Auditorio",
+      "description": "Se usa para indicar la ubicación de un auditorio",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-34.png",
+      "name": "Audiorama",
+      "description": "Se usa para indicar el sitio donde se presta el servicio para escuchar música en un audiorama.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-33.png",
+      "name": "Aseo de calzado",
+      "description": "Se usa para indicar la ubicación de servicio para aseo de calzado.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-32.png",
+      "description": "Se usa para indicar la ubicación del área de salidas en una terminal aeroportuaria.",
+      "name": "Aeropuerto - Salida",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-31.png",
+      "name": "Aeropuerto - Llegada",
+      "description": "Se usa para indicar la ubicación del área de llegadas en una terminal aeroportuaria.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-30.png",
+      "description": "Se usa para indicar la ubicación de una terminal aeroportuaria de largo alcance.",
+      "name": "Aeropuerto - Largo alcance",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-3.png",
+      "name": "Área recreativa",
+      "description": "Se usa para indicar la presencia de un sitio de esparcimiento y descanso.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-29.png",
+      "name": "Aeropuerto - Mediano alcance",
+      "description": "Se usa para indicar la ubicación de una terminal aeroportuaria de mediano alcance.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-28.png",
+      "name": "Aeropuerto - Corto alcance",
+      "description": "Se usa para indicar la ubicación de una terminal aeroportuaria de corto alcance.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-27.png",
+      "name": "Transbordador",
+      "description": "Se usa para indicar la presencia de un muelle para abordar un transbordador.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-26.png",
+      "name": "Teléfono",
+      "description": "Se usa para indicar la presencia de un teléfono público.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-25.png",
+      "name": "Teleférico",
+      "description": "Se usa para indicar el sitio para abordar un teleférico.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-24.png",
+      "name": "Taxi",
+      "description": "Se usa para indicar la presencia de un sitio de taxi.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-23.png",
+      "name": "Sanitarios",
+      "description": "Se usa para indicar la presencia de sanitarios.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-22.png",
+      "name": "Restaurante",
+      "description": "Se usa para indicar la presencia de un restaurante.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-21.png",
+      "name": "Paradero de trolebús",
+      "description": "Se usa para indicar la presencia de un paradero de trolebús.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-20.png",
+      "name": "Paradero de tranvía",
+      "description": "Se usa para indicar la presencia de un paradero de tranvía.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-2.png",
+      "name": "Albergue",
+      "description": "Se usa para indicar un lugar donde se proporciona alojamiento para actividades al aire libre.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-19.png",
+      "name": "Paradero de autobús",
+      "description": "Se usa para indicar la presencia de un paradero de autobús.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-18.png",
+      "name": "Muelle/Embarcadero",
+      "description": "Se usa para indicar la presencia de un muelle o embarcadero.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-17.png",
+      "name": "Médico",
+      "description": "Se usa para indicar el sitio donde se proporciona atención médica.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-16.png",
+      "name": "Taller mecánico",
+      "description": "Se usa para indicar el sitio donde se proporciona servicio mecánico automotriz.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-15.png",
+      "name": "Metro",
+      "description": "Se usa para indicar la presencia de una estación del Sistema de Transporte Colectivo Metropolitano.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-14.png",
+      "name": "Información",
+      "description": "Se usa para indicar el sitio donde se proporciona información.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-13.png",
+      "name": "Hotel",
+      "description": "Se usa para indicar la presencia de un hotel o motel.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-12.png",
+      "name": "Helipuerto",
+      "description": "Se usa para indicar la presencia de un helipuerto.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-11.png",
+      "name": "Gasolinera",
+      "description": "Se usa para indicar la presencia de un establecimiento de venta de combustible, en su caso, en un tablero adicional se indicará el tipo de combustible que se suministra.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-10.png",
+      "name": "Estación ferroviaria",
+      "description": "Se usa para indicar la presencia de una estación de ferrocarril.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sis-1.png",
+      "name": "Aeropuerto",
+      "description": "Se usa para indicar la presencia de una terminal aeroportuaria.",
+      "tipo": {
+        "id": "sis",
+        "name": "Señal Informativa de Servicios"
+      }
+    },
+    {
+      "filename": "sir-cruce-ferrocarril.png",
+      "name": "Cruce de ferrocarril",
+      "description": "Se utiliza para indicar la presencia de un cruce de ferrocarril.",
+      "tipo": {
+        "id": "sir",
+        "name": "Señal Informativa de Recomendación"
+      }
+    }
+  ]
+}
