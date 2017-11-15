@@ -13,22 +13,10 @@
           </div>
           <nav class="b-main-navigation">
             <ul id="js-main-navigation" class="b-main-navigation__items">
-              <li class="b-main-navigation__item">
-                <nuxt-link class="b-main-navigation__link" to="/">
-                  <i class="fa fa-home b-main-navigation__icon" aria-hidden="true"></i>
-                  <span class="b-main-navigation__text">Inicio</span>
-                </nuxt-link>
-              </li>
-              <li class="b-main-navigation__item">
-                <nuxt-link class="b-main-navigation__link" to="/senales">
-                  <i class="fa fa-wheelchair-alt b-main-navigation__icon" aria-hidden="true"></i>
-                  <span class="b-main-navigation__text">Señales</span>
-                </nuxt-link>
-              </li>
-              <li class="b-main-navigation__item">
-                <nuxt-link class="b-main-navigation__link" to="/examen-prueba">
-                  <i class="fa fa-question-circle b-main-navigation__icon" aria-hidden="true"></i>
-                  <span class="b-main-navigation__text">Examen</span>
+              <li class="b-main-navigation__item" v-for="item of pages">
+                <nuxt-link class="b-main-navigation__link" :to="item.route">
+                  <i :class="item.iconClass" class="b-main-navigation__icon" aria-hidden="true"></i>
+                  <span class="b-main-navigation__text">{{item.displayName}}</span>
                 </nuxt-link>
               </li>
             </ul>
@@ -40,6 +28,29 @@
   <!-- END: Header -->
 </template>
 <script>
-  export default {}
+  export default {
+    data() {
+      return {
+        pages: [
+          {
+            name: 'home',
+            displayName: 'Inicio',
+            route: '/',
+            iconClass: 'fa fa-home'
+          }, {
+            name: 'senales',
+            displayName: 'Señales',
+            route: '/senales',
+            iconClass: 'fa fa-wheelchair-alt'
+          }, {
+            name: 'examen',
+            displayName: 'Examen',
+            route: '/examen-prueba',
+            iconClass: 'fa fa-question-circle'
+          }
+        ]
+      }
+    }
+  }
 </script>
 <style></style>
