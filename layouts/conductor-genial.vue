@@ -29,6 +29,7 @@
   .b-grid-list {
     text-align: center;
   }
+
   /* END: Grid List */
 
   /* START: Tile */
@@ -74,6 +75,7 @@
     text-align: left;
     font-size: 16px;
     line-height: 1;
+    margin: 0;
   }
 
   .b-tile:hover {
@@ -87,6 +89,7 @@
   .b-tile:hover .b-tile-mask {
     opacity: 0.8;
   }
+
   /* END: Tile */
 
 </style>
