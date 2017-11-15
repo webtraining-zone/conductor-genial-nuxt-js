@@ -1,16 +1,15 @@
 <template>
   <section class="b-senales">
     <h1>Señales</h1>
-    <div class="b-senales">
-      <div class="b-senal" v-for="s of senales">
-        <p>{{s.name}}</p>
-      </div>
-    </div>
+    <senales-grid :data="senales"></senales-grid>
   </section>
 </template>
 <script>
+  import SenalesGrid from '../components/senales/SenalesGrid.vue'
+
   export default {
     layout: 'conductor-genial',
+    components: {SenalesGrid},
     asyncData(context) {
       return new Promise(function (resolve, reject) {
         setTimeout(function () {
@@ -33,3 +32,5 @@
     }
   }
 </script>
+<style>
+</style>
