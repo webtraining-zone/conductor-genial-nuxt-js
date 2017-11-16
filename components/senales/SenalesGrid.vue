@@ -1,20 +1,34 @@
 <template>
-  <div class="b-senales-grid b-grid-list">
-    <senal-tile v-for="s of senalesToDisplay" :data="s" :key="s.filename"></senal-tile>
-  </div>
+  <grid-list class="b-senales-grid" :data="senalesToDisplay"></grid-list>
 </template>
 <script>
-  import SenalTile from './SenalTile.vue'
+  import GridList from '../common/GridList.vue'
 
   export default {
     props: ['data'],
-    components: {SenalTile},
+    components: {GridList},
     computed: {
       senalesToDisplay() {
-        return this.data;
+        return this.data.map((s, i) => {
+          return {
+            id: s.id || i,
+            imageUrl: `/traffic-signals/${s.filename}`,
+            title: s.name,
+            href: `/senales/${s.id}`
+          }
+        });
       }
     }
   }
 </script>
 <style scoped>
+  /* START: Senal Tile */
+  .b-senales-grid >>> .b-tile {
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffffff;
+  }
+
+  /* END: Senal Tile */
 </style>
