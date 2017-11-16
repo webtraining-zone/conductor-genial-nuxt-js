@@ -1,9 +1,9 @@
 <template>
-  <div class="b-senal-tile b-tile" :style="tileStyle" @click="onClick">
+  <nuxt-link :to="route" class="b-senal-tile b-tile" :style="tileStyle">
     <div class="b-tile-mask b-tile-mask--single">
       <p class="b-tile-title ellipsify">{{titleToDisplay}}</p>
     </div>
-  </div>
+  </nuxt-link>
 </template>
 <script>
   export default {
@@ -16,13 +16,12 @@
       },
       titleToDisplay() {
         return this.data.name;
+      },
+      route() {
+        return `/senales/${this.data.id}`;
       }
     },
-    methods: {
-      onClick() {
-        console.log('Clicked on ' + this.data.name)
-      }
-    }
+    methods: {}
   }
 </script>
 <style scoped>
@@ -33,5 +32,6 @@
     background-position: center;
     background-color: #ffffff;
   }
+
   /* END: Senal Tile */
 </style>

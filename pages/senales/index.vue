@@ -5,7 +5,7 @@
   </section>
 </template>
 <script>
-  import SenalesGrid from '../components/senales/SenalesGrid.vue'
+  import SenalesGrid from '../../components/senales/SenalesGrid.vue'
 
   export default {
     layout: 'conductor-genial',
