@@ -2,7 +2,7 @@
   <grid-list class="b-senales-grid" :data="senalesToDisplay"></grid-list>
 </template>
 <script>
-  import GridList from '../common/GridList.vue'
+  import GridList from '../grid-list/GridList.vue'
 
   export default {
     props: ['data'],
