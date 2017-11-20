@@ -14,7 +14,7 @@
             id: s.id || i,
             imageUrl: `/traffic-signals/${s.filename}`,
             title: s.name,
-            href: `/senales/${s.id}`
+            href: `/senales/${s.id || i}`
           }
         });
       }
