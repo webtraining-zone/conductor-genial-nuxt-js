@@ -23,7 +23,7 @@
     },
     */
     fetch({store}) { // Server-side
-      store.dispatch('RETRIEVE_SENALES');
+      return store.dispatch('RETRIEVE_SENALES');
     },
     computed: {
       senales() {

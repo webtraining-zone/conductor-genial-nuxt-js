@@ -1,0 +1,24 @@
+{
+  "assessments": [
+    {
+      "id": 0,
+      "name": "Prueba inicial",
+      "imageUrl": "/assessments/car_01.png"
+    },
+    {
+      "id": 1,
+      "name": "Prueba principiante",
+      "imageUrl": "/assessments/car_01.png"
+    },
+    {
+      "id": 2,
+      "name": "Prueba experimentado",
+      "imageUrl": "/assessments/car_01.png"
+    },
+    {
+      "id": 3,
+      "name": "Prueba experto",
+      "imageUrl": "/assessments/car_01.png"
+    }
+  ]
+}

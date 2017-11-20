@@ -1,5 +1,6 @@
 import Vuex from 'vuex'
 import * as _signalsJson from 'static/senales.json'
+import * as _assessmentsJson from 'static/assessments.json'
 
 const createStore = () => {
   return new Vuex.Store({
@@ -8,9 +9,11 @@ const createStore = () => {
     },
     mutations: {
       SET_SENALES(state, {senales}) {
+        console.log('Setting signals');
         state.senales = senales;
       },
       SET_SENAL(state, {id, senal}) {
+        console.log('Setting signal ' + id);
         let l = state.senales.length;
         let found;
         console.log('Looking for ' + id);
@@ -26,6 +29,10 @@ const createStore = () => {
           console.log('Not found. Appended');
           state.senales.push(senal);
         }
+      },
+      SET_ASSESSMENTS(state, payload) {
+        console.log('Setting assessments');
+        state.assessments = payload.assessments;
       }
     },
     actions: {
@@ -36,10 +43,11 @@ const createStore = () => {
         }
       },
       RETRIEVE_SENALES({commit}) {
+        console.log('Retrieving all signals');
         return new Promise(function (resolve, reject) {
           setTimeout(function () {
             resolve(_signalsJson.signals);
-          }, 1500);
+          }, 5000);
         }).then(senales => {
           commit('SET_SENALES', {senales});
         });
@@ -49,19 +57,32 @@ const createStore = () => {
           console.log('Retrieval ignored for id ' + id);
           return
         }
+        console.log('Retrieving signal' + id);
         return new Promise(function (resolve, reject) {
-          console.log('Retrieving ' + id);
           setTimeout(function () {
             resolve(_signalsJson.signals.find(s => s.id === id));
           }, 5000);
         }).then(senal => {
           commit('SET_SENAL', {id, senal});
         })
+      },
+      RETRIEVE_ASSESSMENTS(context) {
+        console.log('Retrieving assessments');
+        return new Promise(function (resolve, reject) {
+          setTimeout(function () {
+            resolve(_assessmentsJson.assessments);
+          }, 5000);
+        }).then(assessments => {
+          context.commit('SET_ASSESSMENTS', {assessments});
+        });
       }
     },
     getters: {
       allSenales: state => {
         return state.senales;
+      },
+      allAssessments: state => {
+        return state.assessments;
       },
       getSenalById: (state, getters) => (id) => {
         return getters.allSenales.find(senal => senal.id === id);
