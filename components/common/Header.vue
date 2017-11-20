@@ -47,6 +47,11 @@
             displayName: 'Examen',
             route: '/examen-prueba',
             iconClass: 'fa fa-question-circle'
+          }, {
+            name: 'pruebas',
+            displayName: 'Pruebas',
+            route: '/pruebas',
+            iconClass: 'fa fa-check'
           }
         ]
       }
