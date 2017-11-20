@@ -1,20 +1,20 @@
 <template>
   <section class="b-pruebas">
     <h1>Pruebas</h1>
-    <card-list :data="assessmentsToDisplay"></card-list>
+    <assessments-list :data="assessments"></assessments-list>
   </section>
 </template>
 <script>
-  import CardList from '../../components/card-list/CardList.vue'
+  import AssessmentsList from '../../components/assessments/AssessmentsList.vue'
 
   export default {
     layout: 'conductor-genial',
-    components: {CardList},
+    components: {AssessmentsList},
     fetch(context) {
       return context.store.dispatch('RETRIEVE_ASSESSMENTS');
     },
     computed: {
-      assessmentsToDisplay() {
+      assessments() {
         return this.$store.getters.allAssessments
       }
     }
