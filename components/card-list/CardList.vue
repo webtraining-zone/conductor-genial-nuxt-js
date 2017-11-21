@@ -1,6 +1,5 @@
 <template>
   <div class="b-card-list">
-    <h2>Card List</h2>
     <card v-for="item of data" :data="item" :key="item.id"></card>
   </div>
 </template>
