@@ -1,10 +1,10 @@
 <template>
-  <nuxt-link :to="href" class="b-card">
+  <div class="b-card" @click="navigateToHref">
     <div class="b-card-image" :style="cardStyle"></div>
     <div class="b-card-title">{{title}}</div>
     <div class="b-card-summary" :class="summaryClass">{{summary}}</div>
-    <div class="fa b-card-summary__action" :class="actionClass" @click="toggleSummary"></div>
-  </nuxt-link>
+    <div class="fa b-card-summary__action" :class="actionClass" @click.stop="toggleSummary"></div>
+  </div>
 </template>
 <script>
   /**
@@ -30,9 +30,6 @@
           'background-image': `url(${this.data.imageUrl})`
         }
       },
-      href() {
-        return this.data.href;
-      },
       title() {
         return this.data.title;
       },
@@ -47,6 +44,9 @@
       }
     },
     methods: {
+      navigateToHref() {
+        this.$router.push(this.data.href)
+      },
       toggleSummary() {
         this.expandedSummary = !this.expandedSummary;
       }
