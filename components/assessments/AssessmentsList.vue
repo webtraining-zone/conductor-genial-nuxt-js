@@ -14,8 +14,9 @@
         return this.data.map((a, i) => {
           return {
             id: a.id || i,
-            imageUrl: `/assessments/${a.imageUrl}`,
+            imageUrl: `/assessments/${a.imageFilename}`,
             title: a.name,
+            summary: a.summary,
             href: `/pruebas/${a.id || i}`
           }
         });

@@ -3,22 +3,26 @@
     {
       "id": 0,
       "name": "Prueba inicial",
-      "imageUrl": "/assessments/car_01.png"
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam distinctio dolore ea eaque eum excepturi explicabo facilis incidunt ipsa magni odit officia pariatur quod, reiciendis repellendus, reprehenderit sit tempore veritatis?",
+      "imageFilename": "car_01.png"
     },
     {
       "id": 1,
       "name": "Prueba principiante",
-      "imageUrl": "/assessments/car_01.png"
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam distinctio dolore ea eaque eum excepturi explicabo facilis incidunt ipsa magni odit officia pariatur quod, reiciendis repellendus, reprehenderit sit tempore veritatis?",
+      "imageFilename": "car_01.png"
     },
     {
       "id": 2,
       "name": "Prueba experimentado",
-      "imageUrl": "/assessments/car_01.png"
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam distinctio dolore ea eaque eum excepturi explicabo facilis incidunt ipsa magni odit officia pariatur quod, reiciendis repellendus, reprehenderit sit tempore veritatis?",
+      "imageFilename": "car_01.png"
     },
     {
       "id": 3,
       "name": "Prueba experto",
-      "imageUrl": "/assessments/car_01.png"
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam distinctio dolore ea eaque eum excepturi explicabo facilis incidunt ipsa magni odit officia pariatur quod, reiciendis repellendus, reprehenderit sit tempore veritatis?",
+      "imageFilename": "car_01.png"
     }
   ]
 }

@@ -92,4 +92,68 @@
 
   /* END: Tile */
 
+  /* START: Card List */
+  .b-card-list {
+
+  }
+
+  /* END: Card List */
+
+  /* START: Card */
+  .b-card {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    margin: 12px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+
+  .b-card:hover {
+    cursor: pointer;
+    box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  }
+
+  .b-card-image {
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+    border-radius: 4px 4px 0 0;
+    background-size: 56.25%;
+    background-color: darkcyan;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .b-card-title {
+    font-size: 24px;
+    padding: 24px 16px 16px;
+  }
+
+  .b-card-summary {
+    padding: 0 0 16px 16px;
+    font-size: 14px;
+    width: 85%;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .b-card-summary.b-card-summary--expanded {
+    width: 100%;
+    display: block;
+  }
+
+  .b-card-summary__action {
+    float: right;
+    margin: 3px 16px 16px 0;
+    font-size: 14px;
+    border-radius: 50%;
+    color: #ddd;
+  }
+
+  .b-card-summary__action:hover {
+    color: #000;
+  }
+
+  /* END: Card */
+
 </style>

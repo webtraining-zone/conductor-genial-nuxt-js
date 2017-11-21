@@ -11,6 +11,7 @@
    *      id: _id,
    *      imageUrl: _imageUrl,
    *      title: _title,
+   *      summary: _summary,
    *      href: _href
    *    }
    *
