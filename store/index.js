@@ -5,7 +5,8 @@ import * as _assessmentsJson from 'static/assessments.json'
 const createStore = () => {
   return new Vuex.Store({
     state: {
-      senales: []
+      senales: [],
+      assessments: []
     },
     mutations: {
       SET_SENALES(state, {senales}) {
@@ -105,7 +106,7 @@ const createStore = () => {
             resolve(_assessmentsJson.assessments.find(a => a.id === id));
           }, 5000);
         }).then(assessment => {
-          commit('SET_ASSESSMENTL', {id, assessment});
+          commit('SET_ASSESSMENT', {id, assessment});
         })
       }
     },
