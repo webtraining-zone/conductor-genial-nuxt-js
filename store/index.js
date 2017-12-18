@@ -55,12 +55,14 @@ const createStore = () => {
       }
     },
     actions: {
-      nuxtServerInit(state, context) {
+      /*
         // This is executed server-side only
+      nuxtServerInit(state, context) {
         if (context.req.session) {
           // Example
         }
       },
+      */
       RETRIEVE_SENALES({commit}) {
         console.log('Retrieving all signals');
         return new Promise(function (resolve, reject) {
