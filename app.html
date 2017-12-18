@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html {{ HTML_ATTRS }}>
-  <head>
-    {{ HEAD }}
-  </head>
-  <body {{ BODY_ATTRS }}>
-    {{ APP }}
-  </body>
+<head>
+  {{ HEAD }}
+
+  <!--START: AdSense-->
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-6390653043496492",
+      enable_page_level_ads: true
+    });
+  </script>
+  <!--END: AdSense-->
+</head>
+<body {{ BODY_ATTRS }}>
+{{ APP }}
+</body>
 </html>
