@@ -1,4 +1,5 @@
 const signalsService = require('./services/signalsService')
+const assessmentsService = require('./services/assessmentsService')
 
 module.exports = {
   /*
@@ -45,8 +46,23 @@ module.exports = {
   },
   generate: {
     routes: function () {
-      return signalsService.retrieveAllSignals().then(signals => {
-        return signals.map(s => `/senales/${s.id}`)
+      let promises =
+        [
+          signalsService.retrieveAllSignals().then(signals => {
+            return signals.map(s => `/senales/${s.id}`)
+          }),
+          assessmentsService.retrieveAllAssessments().then(assessment => {
+            return assessment.map(a => `/pruebas/${a.id}`)
+          })
+        ];
+
+      return Promise.all(promises).then(routesArrays => {
+        let groupedRoutes = [];
+        let _l = routesArrays.length;
+        for (let i = 0; i < _l; i++) {
+          groupedRoutes = [...groupedRoutes, ...routesArrays[i]]
+        }
+        return groupedRoutes;
       })
     }
   }

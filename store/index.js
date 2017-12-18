@@ -19,6 +19,23 @@ const signalsService = {
   }
 };
 
+const assessmentsService = {
+  retrieveAllAssessments() {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_assessmentsJson.assessments);
+      }, 500);
+    })
+  },
+  retrieveAssessmentById(id) {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_assessmentsJson.assessments.find(a => a.id === id));
+      }, 5000);
+    })
+  }
+};
+
 const createStore = () => {
   return new Vuex.Store({
     state: {
@@ -98,11 +115,7 @@ const createStore = () => {
       },
       RETRIEVE_ASSESSMENTS(context) {
         console.log('Retrieving assessments');
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_assessmentsJson.assessments);
-          }, 500);
-        }).then(assessments => {
+        return assessmentsService.retrieveAllAssessments().then(assessments => {
           context.commit('SET_ASSESSMENTS', {assessments});
         });
       },
@@ -112,11 +125,7 @@ const createStore = () => {
           return
         }
         console.log('Retrieving assessment' + id);
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_assessmentsJson.assessments.find(a => a.id === id));
-          }, 5000);
-        }).then(assessment => {
+        return assessmentsService.retrieveAssessmentById(id).then(assessment => {
           commit('SET_ASSESSMENT', {id, assessment});
         })
       }
