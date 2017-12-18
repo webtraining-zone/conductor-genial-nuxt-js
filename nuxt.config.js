@@ -1,3 +1,5 @@
+const signalsService = require('./services/signalsService')
+
 module.exports = {
   /*
   ** Headers of the page
@@ -30,7 +32,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
-    extend (config, ctx) {
+    extend(config, ctx) {
       if (ctx.dev && ctx.isClient) {
         config.module.rules.push({
           enforce: 'pre',
@@ -39,6 +41,13 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
+    }
+  },
+  generate: {
+    routes: function () {
+      return signalsService.retrieveAllSignals().then(signals => {
+        return signals.map(s => `/senales/${s.id}`)
+      })
     }
   }
 }
