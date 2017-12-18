@@ -2,6 +2,40 @@ import Vuex from 'vuex'
 import * as _signalsJson from 'static/senales.json'
 import * as _assessmentsJson from 'static/assessments.json'
 
+const signalsService = {
+  retrieveAllSignals() {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_signalsJson.signals);
+      }, 500);
+    })
+  },
+  retrieveSignalById(id) {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_signalsJson.signals.find(s => s.id === id));
+      }, 500);
+    })
+  }
+};
+
+const assessmentsService = {
+  retrieveAllAssessments() {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_assessmentsJson.assessments);
+      }, 500);
+    })
+  },
+  retrieveAssessmentById(id) {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_assessmentsJson.assessments.find(a => a.id === id));
+      }, 500);
+    })
+  }
+};
+
 const createStore = () => {
   return new Vuex.Store({
     state: {
@@ -55,19 +89,17 @@ const createStore = () => {
       }
     },
     actions: {
-      nuxtServerInit(state, context) {
+      /*
         // This is executed server-side only
+      nuxtServerInit(state, context) {
         if (context.req.session) {
           // Example
         }
       },
+      */
       RETRIEVE_SENALES({commit}) {
         console.log('Retrieving all signals');
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_signalsJson.signals);
-          }, 5000);
-        }).then(senales => {
+        return signalsService.retrieveAllSignals().then(senales => {
           commit('SET_SENALES', {senales});
         });
       },
@@ -77,21 +109,13 @@ const createStore = () => {
           return
         }
         console.log('Retrieving signal' + id);
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_signalsJson.signals.find(s => s.id === id));
-          }, 5000);
-        }).then(senal => {
+        return signalsService.retrieveSignalById(id).then(senal => {
           commit('SET_SENAL', {id, senal});
         })
       },
       RETRIEVE_ASSESSMENTS(context) {
         console.log('Retrieving assessments');
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_assessmentsJson.assessments);
-          }, 500);
-        }).then(assessments => {
+        return assessmentsService.retrieveAllAssessments().then(assessments => {
           context.commit('SET_ASSESSMENTS', {assessments});
         });
       },
@@ -101,11 +125,7 @@ const createStore = () => {
           return
         }
         console.log('Retrieving assessment' + id);
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_assessmentsJson.assessments.find(a => a.id === id));
-          }, 5000);
-        }).then(assessment => {
+        return assessmentsService.retrieveAssessmentById(id).then(assessment => {
           commit('SET_ASSESSMENT', {id, assessment});
         })
       }

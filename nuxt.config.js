@@ -1,3 +1,6 @@
+const signalsService = require('./services/signalsService')
+const assessmentsService = require('./services/assessmentsService')
+
 module.exports = {
   /*
   ** Headers of the page
@@ -30,7 +33,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
-    extend (config, ctx) {
+    extend(config, ctx) {
       if (ctx.dev && ctx.isClient) {
         config.module.rules.push({
           enforce: 'pre',
@@ -39,6 +42,28 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
+    }
+  },
+  generate: {
+    routes: function () {
+      let promises =
+        [
+          signalsService.retrieveAllSignals().then(signals => {
+            return signals.map(s => `/senales/${s.id}`)
+          }),
+          assessmentsService.retrieveAllAssessments().then(assessment => {
+            return assessment.map(a => `/pruebas/${a.id}`)
+          })
+        ];
+
+      return Promise.all(promises).then(routesArrays => {
+        let groupedRoutes = [];
+        let _l = routesArrays.length;
+        for (let i = 0; i < _l; i++) {
+          groupedRoutes = [...groupedRoutes, ...routesArrays[i]]
+        }
+        return groupedRoutes;
+      })
     }
   }
 }
