@@ -2,6 +2,23 @@ import Vuex from 'vuex'
 import * as _signalsJson from 'static/senales.json'
 import * as _assessmentsJson from 'static/assessments.json'
 
+const signalsService = {
+  retrieveAllSignals() {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_signalsJson.signals);
+      }, 5000);
+    })
+  },
+  retrieveSignalById(id) {
+    return new Promise(function (resolve, reject) {
+      setTimeout(function () {
+        resolve(_signalsJson.signals.find(s => s.id === id));
+      }, 5000);
+    })
+  }
+};
+
 const createStore = () => {
   return new Vuex.Store({
     state: {
@@ -65,11 +82,7 @@ const createStore = () => {
       */
       RETRIEVE_SENALES({commit}) {
         console.log('Retrieving all signals');
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_signalsJson.signals);
-          }, 5000);
-        }).then(senales => {
+        return signalsService.retrieveAllSignals().then(senales => {
           commit('SET_SENALES', {senales});
         });
       },
@@ -79,11 +92,7 @@ const createStore = () => {
           return
         }
         console.log('Retrieving signal' + id);
-        return new Promise(function (resolve, reject) {
-          setTimeout(function () {
-            resolve(_signalsJson.signals.find(s => s.id === id));
-          }, 5000);
-        }).then(senal => {
+        return signalsService.retrieveSignalById(id).then(senal => {
           commit('SET_SENAL', {id, senal});
         })
       },
