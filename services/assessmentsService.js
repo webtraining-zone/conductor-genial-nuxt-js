@@ -12,7 +12,7 @@ module.exports = {
     return new Promise(function (resolve, reject) {
       setTimeout(function () {
         resolve(_assessmentsJson.assessments.find(a => a.id === id));
-      }, 5000);
+      }, 500);
     })
   }
 }
